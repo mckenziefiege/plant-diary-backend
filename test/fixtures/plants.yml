@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nickname: MyString
+  species: MyString
+  image: MyString
+  location: MyString
+  user_id: 1
+  watering_frequency: MyString
+  date_obtained: MyString
+
+two:
+  nickname: MyString
+  species: MyString
+  image: MyString
+  location: MyString
+  user_id: 1
+  watering_frequency: MyString
+  date_obtained: MyString
